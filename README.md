@@ -5,7 +5,7 @@ HBV hydrological model in Python with a complete Unceratinty-Sensitivity analysi
 
 ## 📥Requierd Data
 For using the model, you need to upload the HBVinput.xlsx file.
-This file contains several datasheet:
+This file contains several datasheets:
 
 1-Precipitation and Temperature time series data (mm and °C) in order
 
