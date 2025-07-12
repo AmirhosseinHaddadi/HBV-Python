@@ -65,7 +65,7 @@ This file contains several datasheet:
 
     Code Outputs: HBV_Simulation_TimeSeries.xlsx + Time series plot
 
-🔹**7- Forward Uncertainty Propogation**
+🔹**7- Forward Uncertainty Propagation**
 
   7-1- FOSM method
 
@@ -75,7 +75,7 @@ This file contains several datasheet:
   
     Code Outputs: HBV_Uncertainty_MonteCarlo.xlsx + Monte Carlo plot
 
-🔹**8- Backward Uncertainty Propogation**
+🔹**8- Backward Uncertainty Propagation**
 
   8-1- GLUE method
 
